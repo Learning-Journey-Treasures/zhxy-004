@@ -1,38 +1,28 @@
-# 基于SpringBoot的智慧党建平台+uniapp移动端
+[点我获取源码](https://x-x.fun/e/SYad52066f6K6)💕🤞
 
-#### 介绍
-后端功能：首页管理（轮播图、通知公告、新闻管理）、用户管理（用户信息、用户反馈、用户订单、用户动态）、其他管理（题库管理、任务管理）
+[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
+
+#### 1.项目介绍
+
+- 技术栈+环境：SpringBoot+thymeleaf+uniapp+IDEA +Navicat+MySQL
+
+功能介绍：
+
+- 后端功能：首页管理（轮播图、通知公告、新闻管理）、用户管理（用户信息、用户反馈、用户订单、用户动态）、其他管理（题库管理、任务管理）
 - 移动端：学习模块、游戏学习模块、打卡签到、积分商城、问题咨询等
 
-#### 软件架构
-软件架构说明
+ **提供较为规范的论文参考样例！ 本项目仅供学习和毕业设计参考~**
+ 
+#### 2.本地部署
+##### 2.1 后端启动
+- 创建数据库，导入项目中的dangjian.sql
+- 打开IDEA，导入项目cyrobot-api，修改 src/main/resources/application.properties 下的数据库连接
+- 下载项目提供的素材，如果不修改后端项目其他配置，请将素材放在 C:\\dangjian\\news\\，如果自定义路径，修改 application.properties 下的config.directory-path=自定义路径
+- 启动项目，http://localhost:8090  管理员账号/密码 ： admin/admin
 
+##### 2.2 移动端启动
+- 通过HbuilderX,导入项目cyrobot-uni
+- 按照需求，启动H5或者小程序，以H5为例，http://localhost:8080 管理员账号/密码 ： 123456@qq.com/123456
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 3.项目部分截图
+![输入图片说明](3.jpg)![输入图片说明](4.jpg)![输入图片说明](5.jpg)![输入图片说明](14.jpg)![输入图片说明](15.jpg)![输入图片说明](13.jpg)
