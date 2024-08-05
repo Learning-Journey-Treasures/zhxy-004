@@ -1,10 +1,7 @@
  **郑重声明：项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~** 
 
-**[只要源码，点我获取](https://x-x.fun/e/HCdddff1c4PBP)💕🤞**
+![gh_17810254f3db_258](https://github.com/user-attachments/assets/8317e409-eb6b-4347-96d6-2a5cfd1cafbf)
 
-**[点我查看详情，获取源码+论文参考示例](https://x-x.fun/e/SYad52066f6K6)💕🤞**
-
- **[点我查看更多](http://blog.cyrobot.top/blog)💕🤞** 
 
 
 #### 1.项目介绍
